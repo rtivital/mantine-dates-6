@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d out -t true",
     "dev": "next dev --port 8732",
     "build": "next build && next export",
     "start": "next start",
