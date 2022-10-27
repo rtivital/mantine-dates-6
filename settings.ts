@@ -5,7 +5,7 @@ export default {
 
   // Your extension repository name, for example mantine-tag-picker
   // it is used to configure GitHub releases
-  githubRepo: "dates-6.0",
+  githubRepo: "mantine-dates-6",
 
   packageName: "mantine-dates-6",
   packageDescription:
